@@ -1,3 +1,42 @@
-﻿body
-{
+﻿body, html {
+    height: 100%;
+    margin: 0;
 }
+.footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+.footer img {
+    max-width: 500px;
+    height: auto;
+}
+
+.carousel-img {
+    object-fit: cover;
+    height: 300px;
+    width: 25%;
+  }
+  /* ser inte ut som dessa overridar bootstrap */
+
+  .carousel-overlay {
+    position: absolute;
+    top: 10%; /* Vertically centered */
+    left: 50%; /* Horizontally centered */
+    transform: translate(-50%, -50%); /* To precisely center the text */
+    color: white; /* Text color */
+    font-size: 3rem; /* Adjust text size */
+    font-weight: bold; /* Bold text */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Optional text shadow for better readability */
+    z-index: 10; /* Ensures text appears above other elements */
+}
+
+.carousel-text {
+    margin: 0; /* Remove margin if necessary */
+}
+  
