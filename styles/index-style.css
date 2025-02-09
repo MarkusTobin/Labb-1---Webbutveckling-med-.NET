@@ -1,3 +1,19 @@
-﻿body
-{
+﻿.h1Caraousel {
+    font-size: 3.5em;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: 5px 5px 5px #000000;
+    text-align: center;
+    margin-top: 10%;
+}
+.pCaraousel {
+    font-size: 1.5em;
+    font-weight: 500;
+    color: #ffffff;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.75);
+    display: inline-block;
+}
+button {
+    color: #000000;
+    background-color: #5ad717;
 }
