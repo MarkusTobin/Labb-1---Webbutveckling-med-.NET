@@ -33,7 +33,7 @@ function loadFooter() {
     const footer = `
         <footer class="container-fluid bg-secondary text-white p-3">
             <div class="container">  
-                <img src="../media/cute-sleepy-kitten.jpg" alt="Footer Cat Image" class="img-fluid">
+                <img src="/media/cute-sleepy-kitten.jpg" alt="Footer Cat Image" class="img-fluid">
                 <p class="text-center">© 2025 CarlsCatStore - All Rights Reserved</p>
                 <p class="text-center">Phone: 123-456789 <br>Email: CarlsCat@cat.com</p>
             </div>
