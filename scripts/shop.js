@@ -1,14 +1,14 @@
 const products = [
-    { name: "Simba", age: 4, race: "Norwegian Forest Cat", price: 50, imageURL: "../media/norwegian-forest-cat-7072128_640.jpg" },
-    { name: "Luna", age: 2, race: "Maine Coon", price: 120, imageURL: "../media/mainecoon.jpg" },
-    { name: "Whiskers", age: 3, race: "British Shorthair", price: 90, imageURL: "../media/Briishshorthair.jpg" },
-    { name: "Milo", age: 1, race: "Siamese", price: 100, imageURL: "../media/siamesse.jpg" },
-    { name: "Cleo", age: 5, race: "Bengal", price: 150, imageURL: "../media/bengal.jpg" },
-    { name: "Oreo", age: 2, race: "Scottish Fold", price: 110, imageURL: "../media/scottishfold.jpg" },
-    { name: "Shadow", age: 4, race: "Russian Blue", price: 130, imageURL: "../media/russianblue.jpeg" },
-    { name: "Ginger", age: 3, race: "Abyssinian", price: 140, imageURL: "../media/abyssinian.jpg" },
-    { name: "Nala", age: 1, race: "Persian", price: 160, imageURL: "../media/persian.jpg" },
-    { name: "Felix", age: 6, race: "Ragdoll", price: 170, imageURL: "../media/cute-blue-mitted-ragdoll-cat-600nw-2235376213.webp" }
+    { name: "Simba", age: 4, race: "Norwegian Forest Cat", price: 50, imageURL: "./media/norwegian-forest-cat-7072128_640.jpg" },
+    { name: "Luna", age: 2, race: "Maine Coon", price: 120, imageURL: "./media/mainecoon.jpg" },
+    { name: "Whiskers", age: 3, race: "British Shorthair", price: 90, imageURL: "./media/Briishshorthair.jpg" },
+    { name: "Milo", age: 1, race: "Siamese", price: 100, imageURL: "./media/siamesse.jpg" },
+    { name: "Cleo", age: 5, race: "Bengal", price: 150, imageURL: "./media/bengal.jpg" },
+    { name: "Oreo", age: 2, race: "Scottish Fold", price: 110, imageURL: "./media/scottishfold.jpg" },
+    { name: "Shadow", age: 4, race: "Russian Blue", price: 130, imageURL: "./media/russianblue.jpeg" },
+    { name: "Ginger", age: 3, race: "Abyssinian", price: 140, imageURL: "./media/abyssinian.jpg" },
+    { name: "Nala", age: 1, race: "Persian", price: 160, imageURL: "./media/persian.jpg" },
+    { name: "Felix", age: 6, race: "Ragdoll", price: 170, imageURL: "./media/cute-blue-mitted-ragdoll-cat-600nw-2235376213.webp" }
 ];
 
 let cart = [];
