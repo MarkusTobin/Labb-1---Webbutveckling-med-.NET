@@ -1,5 +1,5 @@
 const products = [
-    { name: "Simba", age: 4, race: "Norwegian Forest Cat", price: 50, imageURL: "./media/norwegian-forest-cat-7072128_640.webp" },
+    { name: "Simba", age: 4, race: "Norwegian Forest Cat", price: 50, imageURL: "./media/animal-4540649_640.webp" },
     { name: "Luna", age: 2, race: "Maine Coon", price: 120, imageURL: "./media/mainecoon.webp" },
     { name: "Whiskers", age: 3, race: "British Shorthair", price: 90, imageURL: "./media/Briishshorthair.webp" },
     { name: "Milo", age: 1, race: "Siamese", price: 100, imageURL: "./media/siamesse.webp" },
